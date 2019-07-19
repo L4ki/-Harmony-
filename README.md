@@ -13,7 +13,6 @@ and icon window.svg
 ________________________
 
 Changelog 19.07.2019. :
-________________________
 
 Icons: start.svg, system.svg
 
