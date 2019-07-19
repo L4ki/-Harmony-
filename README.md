@@ -10,6 +10,7 @@ Changelog:
 
 Changed Menu Buttons icons
 and icon window.svg
+________________________
 
 Changelog 19.07.2019. :
 ________________________
