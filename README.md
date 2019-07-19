@@ -9,3 +9,9 @@ Changelog:
 
 Changed Menu Buttons icons
 and icon window.svg
+
+Changelog 19.07.2019. :
+
+Icons: start.svg, system.svg
+
+Widgets: busywidgets.svg, line.svg, lineedit.svg, slider.svg,
