@@ -27,39 +27,15 @@
          offset="0"
          id="stop857" />
       <stop
-         style="stop-color:#37c871;stop-opacity:1"
+         style="stop-color:#19d8ff;stop-opacity:1"
          offset="1"
          id="stop859" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient850">
-      <stop
-         style="stop-color:#00ffcc;stop-opacity:1"
-         offset="0"
-         id="stop846" />
-      <stop
-         style="stop-color:#008080;stop-opacity:1"
-         offset="1"
-         id="stop848" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient837"
-       inkscape:collect="always">
-      <stop
-         id="stop833"
-         offset="0"
-         style="stop-color:#008080;stop-opacity:1" />
-      <stop
-         id="stop835"
-         offset="1"
-         style="stop-color:#37c8ab;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient847">
       <stop
-         style="stop-color:#87deaa;stop-opacity:1"
+         style="stop-color:#19d3ff;stop-opacity:1"
          offset="0"
          id="stop843" />
       <stop
@@ -78,16 +54,16 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient850"
+       xlink:href="#linearGradient847"
        id="linearGradient849"
        x1="6.1786432"
        y1="19.999998"
        x2="79.5"
-       y2="39.999997"
+       y2="39.999996"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient837"
+       xlink:href="#linearGradient847"
        id="linearGradient848"
        x1="0.5"
        y1="39.999996"
@@ -146,13 +122,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-height="982"
      id="namedview34"
      showgrid="false"
      inkscape:pagecheckerboard="false"
-     inkscape:zoom="2.828427"
-     inkscape:cx="40.569123"
-     inkscape:cy="66.292699"
+     inkscape:zoom="1.9999999"
+     inkscape:cx="7.761966"
+     inkscape:cy="32.537349"
      inkscape:current-layer="layer1"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -251,7 +227,7 @@
          id="path4378-6" />
       <path
          inkscape:connector-curvature="0"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient849);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient849);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 40,0.499997 a 39.5,39.5 0 0 0 -39.5,39.5 39.5,39.5 0 0 0 39.5,39.5 39.5,39.5 0 0 0 39.5,-39.5 39.5,39.5 0 0 0 -39.5,-39.5 z m 0,6 a 33.5,33.5 0 0 1 33.5,33.5 33.5,33.5 0 0 1 -33.5,33.5 33.5,33.5 0 0 1 -33.5,-33.5 33.5,33.5 0 0 1 33.5,-33.5 z"
          id="path4449-9-7" />
     </g>
