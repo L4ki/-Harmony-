@@ -18,14 +18,14 @@
    sodipodi:docname="background.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#8c8c8c"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.3638639"
-     inkscape:cx="17.355876"
-     inkscape:cy="30.999474"
+     inkscape:zoom="2.5147579"
+     inkscape:cx="30.182548"
+     inkscape:cy="-11.602358"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -146,7 +146,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -451,12 +451,5 @@
        height="5"
        x="400"
        y="467.36218" />
-    <rect
-       style="fill:#006a80;fill-opacity:1;stroke:none"
-       id="hint-bottom-margin"
-       width="2"
-       height="18"
-       x="408"
-       y="459.36218" />
   </g>
 </svg>

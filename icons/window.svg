@@ -14,7 +14,7 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="100%"
    height="100%"
-   sodipodi:docname="window.svgz">
+   sodipodi:docname="window.svg">
   <defs
      id="defs81">
     <style
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -77,12 +77,12 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="978"
+     inkscape:window-height="982"
      id="namedview32"
      showgrid="false"
-     inkscape:zoom="3.9885239"
-     inkscape:cx="-29.552916"
-     inkscape:cy="17.468545"
+     inkscape:zoom="5.8737247"
+     inkscape:cx="-26.515926"
+     inkscape:cy="7.7606707"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -174,7 +174,7 @@
        transform="matrix(0.7125,0,0,0.7125,-1.3937488,-2.5937493)"
        id="e-5">
       <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#006a80;fill-opacity:1;fill-rule:evenodd;stroke:#006c82;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path4145-9"
          cx="-25.833334"
          cy="40.833332"
@@ -201,7 +201,7 @@
        transform="matrix(0.7125,0,0,0.7125,-1.3937488,-2.5937493)"
        id="e-5-5">
       <circle
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#007ba0;stroke-width:1.33333337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path4145-9-6"
          cx="-25.833334"
          cy="40.833332"

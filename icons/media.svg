@@ -13,7 +13,7 @@
    viewBox="0 0 32 32"
    id="svg218"
    sodipodi:docname="media.svg"
-   inkscape:version="0.92.3 (unknown)">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata224">
     <rdf:RDF>
@@ -40,8 +40,8 @@
      inkscape:window-height="982"
      id="namedview220"
      showgrid="false"
-     inkscape:zoom="1.8919336"
-     inkscape:cx="128.42466"
+     inkscape:zoom="5.5945068"
+     inkscape:cx="34.761918"
      inkscape:cy="2.4824803"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -59,8 +59,10 @@
        id="rect2" />
     <path
        style="fill:#a1b4ba;fill-opacity:1"
-       d="m 11,3 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z m -3,4 8,4 -8,4 z"
-       id="path4" />
+       d="m 11,3 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 C 19,6.581722 15.418278,3 11,3 Z M 8,7 14.927519,11 8,15 Z"
+       id="path4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssscccc" />
   </g>
   <g
      id="22-22-media-skip-forward"
