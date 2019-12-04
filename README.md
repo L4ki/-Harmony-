@@ -30,4 +30,9 @@ Modified widgets: clock.svg, calendar.svg
 
 Icon added: input.svg
 
+Changelog: 17.09.2019.
+----------------------
+
+Redesigned Theme
+
 
